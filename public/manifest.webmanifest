@@ -1,0 +1,17 @@
+{
+  "name": "对背",
+  "short_name": "对背",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#efe6d6",
+  "theme_color": "#efe6d6",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

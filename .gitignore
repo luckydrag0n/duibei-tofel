@@ -1,0 +1,5 @@
+node_modules
+dist
+scripts/raw
+.DS_Store
+*.local
